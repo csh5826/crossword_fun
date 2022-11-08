@@ -14,6 +14,7 @@ const fetchData = (() => {
         }
     catch(e){
         console.log(e);
+        console.log('testing git');
     }
 }) 
 
